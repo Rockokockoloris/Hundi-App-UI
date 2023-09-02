@@ -1,0 +1,20 @@
+@startuml UseCaseDiagramm
+
+actor "Hundi (M)" as HM
+actor "Hundi (W)" as HW
+actor "Treasurer\nHundi" as TH
+actor "Administrator\nHundi" as AH
+
+database "Backend" as B
+
+HW -|> HM
+HM -|> TH
+TH -|> AH
+
+rectangle "User Interface" as UI {
+    usecase "Log In"
+    usecase "Log Out"
+    usecase "Select "
+}
+
+@enduml
