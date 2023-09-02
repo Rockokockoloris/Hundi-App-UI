@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="DogTalk_icon.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1041"
+       inkscape:collect="always">
+      <stop
+         id="stop1037"
+         offset="0"
+         style="stop-color:#f6ffd5;stop-opacity:1;" />
+      <stop
+         id="stop1039"
+         offset="1"
+         style="stop-color:#f6ffd5;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient961"
+       inkscape:collect="always">
+      <stop
+         id="stop957"
+         offset="0"
+         style="stop-color:#ffb380;stop-opacity:1" />
+      <stop
+         id="stop959"
+         offset="1"
+         style="stop-color:#ffb380;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.796325,-0.00555726,0.00263226,0.52932077,2.8896179,20.386944)"
+       r="42.429035"
+       fy="34.92646"
+       fx="47.501236"
+       cy="34.92646"
+       cx="47.501236"
+       id="radialGradient967"
+       xlink:href="#linearGradient961"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.71077508,5.4211426e-7,11.550444)"
+       r="31.597843"
+       fy="39.935856"
+       fx="40.53256"
+       cy="39.935856"
+       cx="40.53256"
+       id="radialGradient1043"
+       xlink:href="#linearGradient1041"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1041"
+       id="radialGradient1043-1"
+       cx="40.532558"
+       cy="39.935856"
+       fx="40.532558"
+       fy="39.935856"
+       r="31.597843"
+       gradientTransform="matrix(1,0,0,0.71077508,5.4211426e-7,11.550444)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       id="clipPath1099"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="8.8824406"
+         y="22.265469"
+         x="23.618126"
+         height="34.017857"
+         width="34.017857"
+         id="rect1101"
+         style="opacity:1;fill:none;fill-opacity:0.817109;stroke:#000000;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1041"
+       id="radialGradient1043-2"
+       cx="40.532558"
+       cy="39.935856"
+       fx="40.532558"
+       fy="39.935856"
+       r="31.597843"
+       gradientTransform="matrix(1,0,0,0.71077508,5.4211426e-7,11.550444)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       id="clipPath1169"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="13.072136"
+         cy="38.348354"
+         cx="40.532555"
+         id="circle1171"
+         style="opacity:1;fill:none;fill-opacity:0.817109;stroke:#000000;stroke-width:0.657728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1009"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer4"
+     inkscape:document-units="mm"
+     inkscape:cy="534.31663"
+     inkscape:cx="407.98851"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(10.423512,7.7508163)"
+       id="g1051">
+      <g
+         id="g1046">
+        <rect
+           y="17.476896"
+           x="8.9347172"
+           height="44.917919"
+           width="63.195686"
+           id="rect907"
+           style="fill:#aad400;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000" />
+      </g>
+      <rect
+         y="17.476896"
+         x="8.9347172"
+         height="44.917919"
+         width="63.195686"
+         id="rect997"
+         style="fill:url(#radialGradient1043);fill-opacity:1;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="SpeechBubble">
+    <path
+       sodipodi:nodetypes="sssscccsssss"
+       d="m 44.542252,40.282632 c -2.189829,0 -3.952729,1.7629 -3.952729,3.95273 v 4.063317 c 0,2.189832 1.7629,3.952732 3.952729,3.952732 h 9.535943 c 0.802796,1.843664 -1.163489,2.839299 -1.163489,2.839299 3.081121,0 4.118716,-1.590643 4.217993,-2.839299 h 0.237193 c 2.18983,0 3.95273,-1.7629 3.95273,-3.952732 v -4.063317 c 0,-2.18983 -1.7629,-3.95273 -3.95273,-3.95273 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect835" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Wuff!"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:5.17406px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';stroke-width:0.264583"
+       x="42.93264"
+       y="48.462685"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="42.93264"
+         y="48.462685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.17406px;font-family:'Komika Title - Axis';-inkscape-font-specification:'Komika Title - Axis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">WUFF!</tspan></text>
+  </g>
+  <g
+     inkscape:label="Icons"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(11.49259,13.096207)"
+       id="g1228">
+      <g
+         id="g1110"
+         transform="translate(-109.94696,67.840398)">
+        <g
+           clip-path="url(#clipPath1099)"
+           transform="matrix(0.78786796,0,0,0.78786796,100.75538,11.711573)"
+           id="g1051-4">
+          <g
+             id="g1046-3">
+            <rect
+               style="fill:#aad400;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+               id="rect907-9"
+               width="63.195686"
+               height="44.917919"
+               x="8.9347172"
+               y="17.476896" />
+          </g>
+          <rect
+             style="fill:url(#radialGradient1043-1);fill-opacity:1;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+             id="rect997-9"
+             width="63.195686"
+             height="44.917919"
+             x="8.9347172"
+             y="17.476896" />
+        </g>
+        <path
+           id="rect835-0"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+           d="m 126.25582,36.441199 c -2.18983,0 -3.95273,1.7629 -3.95273,3.95273 v 4.063317 c 0,2.189832 1.7629,3.952733 3.95273,3.952733 h 9.53595 c 0.80279,1.843662 -1.16349,2.839297 -1.16349,2.839297 3.08112,0 4.11871,-1.590643 4.21799,-2.839297 h 0.23719 c 2.18983,0 3.95273,-1.762901 3.95273,-3.952733 v -4.063317 c 0,-2.18983 -1.7629,-3.95273 -3.95273,-3.95273 z"
+           sodipodi:nodetypes="sssscccsssss" />
+        <text
+           id="text847-1"
+           y="44.62125"
+           x="124.64621"
+           style="font-size:5.17406px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.17406px;font-family:'Komika Title - Axis';-inkscape-font-specification:'Komika Title - Axis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             y="44.62125"
+             x="124.64621"
+             id="tspan845-2"
+             sodipodi:role="line">WUFF!</tspan></text>
+      </g>
+      <g
+         id="g1180"
+         transform="translate(-103.52136,70.316143)">
+        <g
+           clip-path="url(#clipPath1169)"
+           transform="translate(115.38262,1.8305132)"
+           id="g1051-7">
+          <g
+             id="g1046-5">
+            <rect
+               style="fill:#aad400;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+               id="rect907-0"
+               width="63.195686"
+               height="44.917919"
+               x="8.9347172"
+               y="17.476896" />
+          </g>
+          <rect
+             style="fill:url(#radialGradient1043-2);fill-opacity:1;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+             id="rect997-2"
+             width="63.195686"
+             height="44.917919"
+             x="8.9347172"
+             y="17.476896" />
+        </g>
+        <path
+           id="rect835-4"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+           d="m 149.50135,34.36233 c -2.18982,0 -3.95272,1.7629 -3.95272,3.95273 v 4.063317 c 0,2.189832 1.7629,3.952733 3.95272,3.952733 h 9.53595 c 0.80279,1.843662 -1.16349,2.839297 -1.16349,2.839297 3.08112,0 4.11871,-1.590643 4.21799,-2.839297 h 0.2372 c 2.18982,0 3.95272,-1.762901 3.95272,-3.952733 V 38.31506 c 0,-2.18983 -1.7629,-3.95273 -3.95272,-3.95273 z"
+           sodipodi:nodetypes="sssscccsssss" />
+        <text
+           id="text847-0"
+           y="42.542381"
+           x="147.89175"
+           style="font-size:5.17406px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.17406px;font-family:'Komika Title - Axis';-inkscape-font-specification:'Komika Title - Axis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             y="42.542381"
+             x="147.89175"
+             id="tspan845-0"
+             sodipodi:role="line">WUFF!</tspan></text>
+      </g>
+    </g>
+    <rect
+       y="92.22506"
+       x="6.2439346"
+       height="85.526245"
+       width="194.30495"
+       id="rect1230"
+       style="opacity:1;fill:none;fill-opacity:0.817109;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.17499584,3.17499584;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000" />
+    <text
+       id="text1234"
+       y="16.694557"
+       x="10.389667"
+       style="font-size:8.55853px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';stroke-width:0.437653;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55853px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.437653"
+         y="16.694557"
+         x="10.389667"
+         id="tspan1232"
+         sodipodi:role="line">App-Icon</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.817109;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect1236"
+       width="194.30495"
+       height="85.526245"
+       x="6.2439346"
+       y="6.6988115" />
+    <text
+       id="text1240"
+       y="22.717911"
+       x="102.6315"
+       style="font-size:4.9389px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="22.717911"
+         x="102.6315"
+         id="tspan1238"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1244"
+       y="28.052866"
+       x="96.64595"
+       style="font-size:3.88056px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="28.052866"
+         x="96.64595"
+         id="tspan1242"
+         sodipodi:role="line">Background: Green Layer with additional gradient for</tspan><tspan
+         id="tspan1246"
+         style="stroke-width:0.264583"
+         y="32.903568"
+         x="96.64595"
+         sodipodi:role="line">some highlighting of the center icon.</tspan><tspan
+         id="tspan1248"
+         style="stroke-width:0.264583"
+         y="37.754269"
+         x="96.64595"
+         sodipodi:role="line">Speechbubble: Speechbubble with 3 px stroke.</tspan><tspan
+         id="tspan1250"
+         style="stroke-width:0.264583"
+         y="42.604969"
+         x="96.64595"
+         sodipodi:role="line">Wuff: Simple text in Komika Title - Kaps. </tspan><tspan
+         id="tspan1252"
+         style="stroke-width:0.264583"
+         y="47.455666"
+         x="96.64595"
+         sodipodi:role="line">Font size 14,6666</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.55853px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';stroke-width:0.437653"
+       x="10.389667"
+       y="103.24065"
+       id="text1234-7"><tspan
+         sodipodi:role="line"
+         id="tspan1232-0"
+         x="10.389667"
+         y="103.24065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55853px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.437653">App-Icon - Examples</tspan></text>
+  </g>
+</svg>

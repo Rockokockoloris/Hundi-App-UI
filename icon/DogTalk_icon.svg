@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="DogTalk_icon.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1041">
+      <stop
+         style="stop-color:#f6ffd5;stop-opacity:1;"
+         offset="0"
+         id="stop1037" />
+      <stop
+         style="stop-color:#f6ffd5;stop-opacity:0;"
+         offset="1"
+         id="stop1039" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient961">
+      <stop
+         style="stop-color:#ffb380;stop-opacity:1"
+         offset="0"
+         id="stop957" />
+      <stop
+         style="stop-color:#ffb380;stop-opacity:0;"
+         offset="1"
+         id="stop959" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient961"
+       id="radialGradient967"
+       cx="47.501236"
+       cy="34.92646"
+       fx="47.501236"
+       fy="34.92646"
+       r="42.429035"
+       gradientTransform="matrix(0.796325,-0.00555726,0.00263226,0.52932077,2.8896179,20.386944)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1041"
+       id="radialGradient1043"
+       cx="40.53256"
+       cy="39.935856"
+       fx="40.53256"
+       fy="39.935856"
+       r="31.597843"
+       gradientTransform="matrix(1,0,0,0.71077508,5.4211426e-7,11.550444)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1099">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.817109;stroke:#000000;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect1101"
+         width="34.017857"
+         height="34.017857"
+         x="23.618126"
+         y="22.265469"
+         ry="8.8824406" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1169">
+      <circle
+         style="opacity:1;fill:none;fill-opacity:0.817109;stroke:#000000;stroke-width:0.657728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         id="circle1171"
+         cx="40.532555"
+         cy="38.348354"
+         r="13.072136" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="407.98851"
+     inkscape:cy="534.31663"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Background">
+    <g
+       id="g1051"
+       transform="translate(10.423512,7.7508163)">
+      <g
+         id="g1046">
+        <rect
+           style="fill:#aad400;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+           id="rect907"
+           width="63.195686"
+           height="44.917919"
+           x="8.9347172"
+           y="17.476896" />
+      </g>
+      <rect
+         style="fill:url(#radialGradient1043);fill-opacity:1;stroke:none;stroke-width:0.643382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect997"
+         width="63.195686"
+         height="44.917919"
+         x="8.9347172"
+         y="17.476896" />
+    </g>
+  </g>
+  <g
+     inkscape:label="SpeechBubble"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="rect835"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 44.542252,40.282632 c -2.189829,0 -3.952729,1.7629 -3.952729,3.95273 v 4.063317 c 0,2.189832 1.7629,3.952732 3.952729,3.952732 h 9.535943 c 0.802796,1.843664 -1.163489,2.839299 -1.163489,2.839299 3.081121,0 4.118716,-1.590643 4.217993,-2.839299 h 0.237193 c 2.18983,0 3.95273,-1.7629 3.95273,-3.952732 v -4.063317 c 0,-2.18983 -1.7629,-3.95273 -3.95273,-3.95273 z"
+       sodipodi:nodetypes="sssscccsssss" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Wuff!"
+     style="display:inline">
+    <text
+       id="text847"
+       y="48.462685"
+       x="42.93264"
+       style="font-size:5.17406px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.17406px;font-family:'Komika Title - Axis';-inkscape-font-specification:'Komika Title - Axis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="48.462685"
+         x="42.93264"
+         id="tspan845"
+         sodipodi:role="line">WUFF!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Icons">
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
+       x="102.6315"
+       y="22.717911"
+       id="text1240"><tspan
+         sodipodi:role="line"
+         id="tspan1238"
+         x="102.6315"
+         y="22.717911"
+         style="stroke-width:0.264583" /></text>
+  </g>
+</svg>
