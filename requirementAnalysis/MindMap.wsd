@@ -1,7 +1,14 @@
 @startmindmap
+' Legend:
+' Red: High priority
+' Orange: medium priority
+' Yellow: low priority
+' Green: Very low priority
+' Blue: Nice to have
+
 + DogTalk
 
-++ User 
+++[#Red] User 
 +++ Hundi
 +++ Trasureer
 +++ Administrator
@@ -15,32 +22,35 @@
 +++++ "Kassenwart"
 +++++ "Alphahundi"
 
-++ Log-In system
+++[#Red] Log-In system
 +++ Log-Out
 ++++ Time-Out
 +++ Log-In data
 ++++ E-Mail
 ++++ Password
 
-++ Sign-Up system
+++[#Red] Sign-Up system
 +++ Invite E-Mail
 +++ Create new group
 +++ Sign-Up data
 ++++ E-Mail
 ++++ Password
 
-++ Calender
+++[#Red] Calender
 +++ Birthday
 +++ Events
 +++ Event date voting
 
-++ Status feed
+++[#Orange] Status feed
++++ Upcoming events
++++ Open event voting
++++ Open date voting
 
-++ Push messages
+++[#Yellow] Push messages
 +++ Event reminder
 +++ Voting reminder
 
--- Penalties
+--[#Orange] Penalties
 --- Penalty overview
 ---- Table
 --- Penalty management
@@ -50,7 +60,7 @@
 ----- Efficient penalty interface
 ----- Long press decision wheel
 
--- Random partner draw
+--[#Green] Random partner draw
 --- Partner overview
 --- Partner draw mechanism
 ---- Wheel of fortune
@@ -58,10 +68,14 @@
 ---- Slot mashine
 ---- Extendable
 
--- Foto Dropbox
+--[#Blue] Foto Dropbox
+--- Slide show
+--- Order by events
 
--- Social media links
+--[#Green] Social media links
 
--- Order merchendise
+--[#Blue] Order merchendise
+--- List of all merchendize
+--- Generate a order summary
 
 @endmindmap
