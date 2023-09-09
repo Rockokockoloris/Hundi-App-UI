@@ -1,0 +1,67 @@
+@startmindmap
++ DogTalk
+
+++ User 
++++ Hundi
++++ Trasureer
++++ Administrator
++++ User profile
+++++ User name
+++++ Profile image
+++++ Roll
+++++ Badges
++++++ "Königsblauer Hundi"
++++++ "Einsamer Wolf"
++++++ "Kassenwart"
++++++ "Alphahundi"
+
+++ Log-In system
++++ Log-Out
+++++ Time-Out
++++ Log-In data
+++++ E-Mail
+++++ Password
+
+++ Sign-Up system
++++ Invite E-Mail
++++ Create new group
++++ Sign-Up data
+++++ E-Mail
+++++ Password
+
+++ Calender
++++ Birthday
++++ Events
++++ Event date voting
+
+++ Status feed
+
+++ Push messages
++++ Event reminder
++++ Voting reminder
+
+-- Penalties
+--- Penalty overview
+---- Table
+--- Penalty management
+---- Add penalty
+---- Remove penalty
+---- Add penalty to user
+----- Efficient penalty interface
+----- Long press decision wheel
+
+-- Random partner draw
+--- Partner overview
+--- Partner draw mechanism
+---- Wheel of fortune
+---- Drinking game
+---- Slot mashine
+---- Extendable
+
+-- Foto Dropbox
+
+-- Social media links
+
+-- Order merchendise
+
+@endmindmap
