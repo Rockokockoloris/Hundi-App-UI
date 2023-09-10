@@ -9,73 +9,90 @@
 + DogTalk
 
 ++[#Red] User 
-+++ Hundi
-+++ Trasureer
-+++ Administrator
-+++ User profile
++++[#Red] User profile
 ++++ User name
 ++++ Profile image
-++++ Roll
-++++ Badges
+++++ Birthday
+++++[#Red] Group settings (for Admin)
++++++ List of member
+++++++ Profile without credentials
++++++ Promote member
++++++ Invite member
++++++ Remove member
+++++[#Red] Roll
++++++ Hundi
++++++ Trasureer
++++++ Administrator
+++++[#Blue] Badges
 +++++ "Königsblauer Hundi"
 +++++ "Einsamer Wolf"
 +++++ "Kassenwart"
 +++++ "Alphahundi"
++++++ "Bester Stammtisch aller Zeiten"
++++++ "Schlechtester Stammtisch aller Zeiten"
+++++[#Blue] Color theme
 
 ++[#Red] Log-In system
-+++ Log-Out
++++[#Red] Log-Out
 ++++ Time-Out
-+++ Log-In data
++++[#Red] Log-In data
 ++++ E-Mail
 ++++ Password
 
 ++[#Red] Sign-Up system
-+++ Invite E-Mail
-+++ Create new group
-+++ Sign-Up data
++++[#Red] Invite E-Mail
++++[#Red] Create new group
++++[#Red] Sign-Up data
 ++++ E-Mail
 ++++ Password
 
 ++[#Red] Calender
-+++ Birthday
-+++ Events
-+++ Event date voting
++++[#Green] Birthday
++++[#Red] Events
++++[#Red] Event date voting
 
 ++[#Orange] Status feed
-+++ Upcoming events
-+++ Open event voting
-+++ Open date voting
++++[#Orange] Upcoming events
++++[#Green] Open event rating
++++[#Orange] Open date voting
 
 ++[#Yellow] Push messages
-+++ Event reminder
-+++ Voting reminder
++++[#Yellow] Event reminder
++++[#Yellow] Voting reminder
 
 --[#Orange] Penalties
---- Penalty overview
+---[#Orange] Penalty overview
 ---- Table
---- Penalty management
----- Add penalty
----- Remove penalty
----- Add penalty to user
------ Efficient penalty interface
------ Long press decision wheel
+---[#Orange] Penalty management
+----[#Orange] Add penalty
+----[#Orange] Remove penalty
+----[#Orange] Add penalty to user
+-----[#Yellow] Efficient penalty interface
+-----[#Yellow] Long press decision wheel
 
 --[#Green] Random partner draw
---- Partner overview
---- Partner draw mechanism
+---[#Green] Partner overview
+---[#Green] Partner draw mechanism
 ---- Wheel of fortune
 ---- Drinking game
 ---- Slot mashine
 ---- Extendable
 
+--[#Green] Event rating
+---[#Green] Rating table with all events
+---[#Green] Rate after event 
+
 --[#Blue] Foto Dropbox
---- Slide show
---- Order by events
+---[#Blue] Slide show
+---[#Blue] Order by events
 
 --[#Green] Social media links
 
 --[#Blue] Order merchendise
---- List of all merchendize
---- Generate a order summary
+---[#Blue] List of all merchendize
+---[#Blue] Generate a order summary
 
+--[#Red] UI design
+
+--[#Orange] App icon
 @endmindmap
